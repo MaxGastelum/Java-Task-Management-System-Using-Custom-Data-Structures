@@ -1,2 +1,2 @@
 # Java-Task-Management-System-Using-Custom-Data-Structures
-This program runs a task management system using custom data structures.
+This program runs a task management system using custom data structures. The custom data structures incorporated include Linked Lists, Stacks, and Queues. These data structures were created in part with Dr. Amlan Chatterjee in a Data Structures course at CSUDH. The program offers certain functionalities that are displayed in the included pdf. These include adding new tasks, removing tasks, marking tasks as complete, and sorting tasks. The user is also able to undo the last add, removal, or completion of a task.
